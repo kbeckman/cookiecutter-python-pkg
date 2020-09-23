@@ -1,8 +1,9 @@
 # cookiecutter-python-pkg
 
-This project is a [cookiecutter] project / repository template for creating a Python package. Unlike most things in the
-Python universe, this project is opinionated and utilizes, in my opinion, the best-of-breed utilities and tooling for
-the job. As my opinions change, this project will change too. Feedback is welcomed.
+This project is a [cookiecutter](https://github.com/cookiecutter/cookiecutter) project / repository template for
+creating a Python package. Unlike most things in the Python universe, this project is opinionated and utilizes, in my
+opinion, the best-of-breed utilities and tooling for the job. As my opinions change, this project will change too.
+Feedback is welcomed.
 
 
 ## Environment Setup
