@@ -24,6 +24,17 @@ _[installation documentation](https://cookiecutter.readthedocs.io/en/1.7.2/insta
 cookiecutter path/to/cookiecutter-python-pkg
 ```
 
+### cookiecutter Varialbes
+
+| Variable                      | Description                                                     | Calculated        |
+| -------                       | -----------                                                     | -------           |
+| **package_name**              | Python package name (can include '-')                           | no, user provided |
+| **package_slug**              | Python **package_name** as _snake_case_.                        | _[calculated]_    |
+| **asdf_python_version**       | Python version to use as ASDF project Python.                   | no, user provided |
+| **minimum_python_version**    | Minimum supported Python version from **asdf_python_version**.  | _[calculated]_    |
+| **author**                    | Package author's full name.                                     | no, user provided |
+| **author_email**              | Package author's email address.                                 | no, user provided |
+
 
 ## Additional Resources
 
